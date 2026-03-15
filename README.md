@@ -14,6 +14,7 @@ This application allows creating, retrieving, updating, and deleting trainer rec
 
 ## 📂 Project Structure
 
+```text
 fitness-trainer-api/
 ├── database/                   # Database initialization scripts
 │   ├── data.sql                # Initial data insertion (seeds)
@@ -30,6 +31,7 @@ fitness-trainer-api/
 │           ├── application.properties         # Main configuration
 │           └── application-example.properties # Configuration template
 └── pom.xml                     # Maven dependency management
+```
 
 ## 🗄 Database Setup
 
