@@ -53,13 +53,13 @@ spring.datasource.password=your_password
 ## ▶️ Running the Application
 
 Clone the repository:
-git clone https://github.com/your-username/fitness-trainer-api.git
+git clone https://github.com/SoyJeand/fitness-trainer-api.git
 
 Navigate to the project folder:
 cd fitness-trainer-api
 
 Run the application using Maven:
-mvn spring-boot:run
+.\mvnw spring-boot:run
 
 The API will start at:
 http://localhost:8080
